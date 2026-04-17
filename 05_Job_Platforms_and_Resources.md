@@ -115,3 +115,55 @@ These are the platforms' own official sites:
 | Platform | Official Site | Notes |
 |----------|-------------|-------|
 | Blind | https://www.teamblind.com/ | Anonymous salary sharing and company culture discussions |
+
+---
+
+## Startup-Focused Job Platforms
+
+| Platform | Official Site | Notes |
+|----------|-------------|-------|
+| Wellfound (formerly AngelList Talent) | https://wellfound.com/ | 130K+ startup job listings from 35K+ companies; shows salary, equity, and funding info |
+| Y Combinator Work at a Startup | https://www.workatastartup.com/ | Official YC job board aggregating positions across all active YC-backed startups |
+| BioSpace Jobs | https://jobs.biospace.com/ | Biotech, pharma, and clinical research job board; operating since 1985 |
+| MedReps | https://medreps.com/ | Medical device, pharma, and biotech sales roles; 100K+ subscribers |
+| Health Tech Nerds Job Board | https://jobs.healthtechnerds.com/ | Community-driven health tech job board from Slack community |
+| Out of Pocket Health | https://www.outofpocket.health/talent | Healthcare newsletter with job board and talent collective for health tech startups |
+
+---
+
+## Digital Health and Startup Databases
+
+Use these to identify companies that are hiring, then check their careers pages directly:
+
+| Resource | Official Site | Notes |
+|----------|-------------|-------|
+| Rock Health | https://rockhealth.com/insights/ | Tracks venture funding in digital health with quarterly/annual reports |
+| StartUp Health | https://www.startuphealth.com/ | Portfolio of 330+ health innovation companies across 26 countries |
+| CB Insights Digital Health 150 | https://www.cbinsights.com/research/digital-health/ | Annual list of 150 most promising private digital health companies |
+| Crunchbase | https://www.crunchbase.com/ | Company funding data, investors, acquisitions; 80M+ data points |
+| PitchBook | https://pitchbook.com/ | Private-market data for VC/PE deal tracking and company financials |
+
+---
+
+## VC Health Portfolios
+
+These venture capital firms invest in health/bio companies. Their portfolio pages are useful for finding startups that are growing and likely hiring:
+
+| VC Firm | Portfolio Page | Focus |
+|---------|---------------|-------|
+| a16z Bio + Health | https://a16z.com/bio-health/ | Biology engineering and healthcare; seed through growth |
+| General Catalyst Health | https://www.generalcatalyst.com/portfolio | $750M dedicated health fund; runs HATCo |
+| GV (Google Ventures) | https://www.gv.com/portfolio | 400+ portfolio companies including Flatiron Health, insitro |
+| Khosla Ventures Digital Health | https://www.khoslaventures.com/category/digital-health | Digital health, medtech, diagnostics, therapeutics |
+| Flagship Pioneering | https://www.flagshippioneering.com/companies | Originates biotech companies; includes Moderna, Generate Bio |
+| ARCH Venture Partners | https://www.archventure.com/portfolio/ | Early-stage life sciences, biotech, diagnostics |
+| Venrock Healthcare | https://www.venrock.com/companies/ | Healthcare investments since 1969; includes Illumina legacy |
+
+---
+
+## Clinical Research Job Boards
+
+| Platform | Official Site | Notes |
+|----------|-------------|-------|
+| ACRP Career Center | https://acrpnet.org/career-center | Association of Clinical Research Professionals job board |
+| SOCRA Job Board | https://www.socra.org/careers-and-services/clinical-research-job-opportunities/ | Society of Clinical Research Associates job listings |
